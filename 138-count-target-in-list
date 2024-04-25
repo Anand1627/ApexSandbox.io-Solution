@@ -1,0 +1,3 @@
+public Integer findTargetCount(List<Integer> nums, Integer target) {
+    // code here
+}
